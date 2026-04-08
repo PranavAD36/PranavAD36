@@ -56,10 +56,6 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-![Snake animation](https://raw.githubusercontent.com/PranavAD36/PranavAD36/output/github-contribution-grid-snake.svg)
----
 
 ## 🎯 CURRENT FOCUS
 - Full-stack system design  

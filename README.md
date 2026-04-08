@@ -58,8 +58,7 @@
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![Snake animation](https://github.com/PranavAD36/PranavAD36/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/PranavAD36/PranavAD36/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🎯 CURRENT FOCUS

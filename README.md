@@ -1,11 +1,22 @@
-# Pranav Dabhi
+<h1 align="center">Pranav Dabhi</h1>
 
-### Full-Stack Developer · API Engineering · Workflow Systems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;API+Engineering;Workflow+Systems;Backend+Focused+Engineer" />
+</p>
 
-📍 Rajkot, India  
-📧 pranav.dabhi9969@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dabhi-pranav-129b05331/)  
-💻 [GitHub](https://github.com/PranavAD36)
+<p align="center">
+  Backend Developer · API Engineering · Workflow Systems
+</p>
+
+<p align="center">
+  <a href="mailto:pranav.dabhi9969@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dabhi-pranav-129b05331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Rajkot-India-blue?style=for-the-badge&logo=googlemaps"/>
+</p>
 
 ---
 
@@ -44,16 +55,8 @@ OpenAI · Gemini · Grok
 
 ### 📌 Odoo POS Cafe
 - Table-based ordering  
-- Multi-payment integration  
-- Kitchen workflow system  
-
----
-
-## 📊 GITHUB STATS
-
-![Stats](https://github-readme-stats.vercel.app/api?username=PranavAD36&show_icons=true&theme=dark)
-
-![Streak](https://streak-stats.demolab.com?user=PranavAD36&theme=dark)
+- Multi-payment system  
+- Kitchen workflow  
 
 ---
 

@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/dabhi-pranav-129b05331/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Rajkot-India-blue?style=for-the-badge&logo=googlemaps"/>
+  <img src="https://img.shields.io/badge/Morbi-Gujarat-blue?style=for-the-badge&logo=googlemaps"/>
 </p>
 
 ---
@@ -28,21 +28,17 @@
 
 ---
 
-## ⚙️ TECH STACK
+## ⚙️ BACKEND STACK
 
-### Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgres,firebase,docker,linux,git,github" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-### AI APIs
-OpenAI · Gemini · Grok  
+- Languages → JavaScript · C · C++  
+- Backend → Node.js · Express.js · REST APIs  
+- Databases → PostgreSQL · MySQL · Supabase  
+- AI APIs → OpenAI · Gemini · Grok  
+- Deployment → Vercel · Render  
 
 ---
 
@@ -57,6 +53,12 @@ OpenAI · Gemini · Grok
 - Table-based ordering  
 - Multi-payment system  
 - Kitchen workflow  
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+![Snake animation](https://github.com/PranavAD36/PranavAD36/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

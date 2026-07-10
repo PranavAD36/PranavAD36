@@ -22,7 +22,7 @@
 
 ---
 
-##🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 🎓 Engineering Student at CSPIT, CHARUSAT (CE'28)
 

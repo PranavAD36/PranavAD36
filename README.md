@@ -18,6 +18,19 @@
   <img src="https://img.shields.io/badge/Morbi-Gujarat-blue?style=for-the-badge&logo=googlemaps"/>
 </p>
 
+
+
+---
+
+🧑‍💻 About Me
+🎓 Engineering Student at CSPIT, CHARUSAT (CE'28)
+🔭 Building futuristic apps & exploring Generative AI
+💻 Expert in MERN Stack & Cloud Architecture
+🧠 Passionate about Deep Learning, RAG, and Agents
+⚡ Fun fact: I'm evolving from a Web Dev into an AI Engineer! 🚀
+
+
+
 ---
 
 ## 🚀 SYSTEM DOMAINS

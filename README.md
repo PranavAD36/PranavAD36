@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Backend Developer · API Engineering · Workflow Systems
+  Backend Developer · API Engineering · Workflow Systems . Ai Engineer
 </p>
 
 <p align="center">

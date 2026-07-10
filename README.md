@@ -24,15 +24,11 @@
 
 ##🧑‍💻 About Me
 
--🎓 Engineering Student at CSPIT, CHARUSAT (CE'28)
-
--🔭 Building futuristic apps & exploring Generative AI
-
--💻 Expert in MERN Stack & Cloud Architecture
-
--🧠 Passionate about Deep Learning, RAG, and Agents
-
--⚡ Fun fact: I'm evolving from a Web Dev into an AI Engineer! 🚀
+🎓 Engineering Student at CSPIT, CHARUSAT (CE'28)
+🔭 Building futuristic apps & exploring Generative AI
+💻 Expert in MERN Stack & Cloud Architecture
+🧠 Passionate about Deep Learning, RAG, and Agents
+⚡ Fun fact: I'm evolving from a Web Dev into an AI Engineer! 🚀
 
 
 

@@ -1,3 +1,4 @@
+
 <h1 align="center">Pranav Dabhi</h1>
 
 <p align="center">
@@ -15,10 +16,11 @@
   <a href="https://www.linkedin.com/in/dabhi-pranav-129b05331/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://pranavdabhi.vercel.app">
+    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/Morbi-Gujarat-blue?style=for-the-badge&logo=googlemaps"/>
 </p>
-
-
 
 ---
 
@@ -34,15 +36,14 @@
 
 ⚡ Fun fact: I'm evolving from a Web Dev into an AI Engineer! 🚀
 
-
-
 ---
 
 ## 🚀 SYSTEM DOMAINS
-- Full-stack systems  
-- REST APIs  
-- Workflow automation  
-- Real-time applications  
+
+- Full-stack systems
+- REST APIs
+- Workflow automation
+- Real-time applications
 
 ---
 
@@ -52,36 +53,56 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgres,firebase,docker,linux,git,github" />
 </p>
 
-- Languages → JavaScript · C · C++  
-- Backend → Node.js · Express.js · REST APIs  
-- Databases → PostgreSQL · MySQL · Supabase  
-- AI APIs → OpenAI · Gemini · Grok  
-- Deployment → Vercel · Render  
+- Languages → JavaScript · C · C++
+- Backend → Node.js · Express.js · REST APIs
+- Databases → PostgreSQL · MySQL · Supabase
+- AI APIs → OpenAI · Gemini · Grok
+- Deployment → Vercel · Render
 
 ---
 
 ## 🧠 SYSTEMS BUILT
 
 ### 📌 ScanMark
-- QR-based attendance system  
-- Role-based dashboards  
-- Real-time tracking  
+
+- QR-based attendance system
+- Role-based dashboards
+- Real-time tracking
 
 ### 📌 Odoo POS Cafe
-- Table-based ordering  
-- Multi-payment system  
-- Kitchen workflow  
+
+- Table-based ordering
+- Multi-payment system
+- Kitchen workflow
 
 ---
 
-
 ## 🎯 CURRENT FOCUS
-- Full-stack system design  
-- API development  
-- Scalable backend systems  
+
+- Full-stack system design
+- API development
+- Scalable backend systems
 
 ---
 
 ## 🎯 TARGET ROLES
-- Backend Developer Intern  
-- Full-Stack Developer Intern  
+
+- Backend Developer Intern
+- Full-Stack Developer Intern
+
+---
+
+## 🌐 MY PORTFOLIO
+
+<p align="center">
+  <a href="https://pranavdabhi.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="My Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://pranavdabhi.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=120&section=header&text=Explore%20My%20Portfolio&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+  </a>
+</p>
+```

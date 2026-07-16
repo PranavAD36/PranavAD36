@@ -13,12 +13,15 @@
   <a href="mailto:pranav.dabhi9969@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/dabhi-pranav-129b05331/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://pranavdabhi.vercel.app">
-    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+  <a href="https://pranavdabhi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
   <img src="https://img.shields.io/badge/Morbi-Gujarat-blue?style=for-the-badge&logo=googlemaps"/>
 </p>
 
@@ -91,18 +94,9 @@
 - Full-Stack Developer Intern
 
 ---
-
-## 🌐 MY PORTFOLIO
-
 <p align="center">
-  <a href="https://pranavdabhi.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="My Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://pranavdabhi.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=120&section=header&text=Explore%20My%20Portfolio&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/PranavAD36/PranavAD36/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 ```
+
+

@@ -52,10 +52,6 @@
 
 ## ⚙️ BACKEND STACK
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PranavAD36/PranavAD36/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 - Languages → JavaScript · C · C++
 - Backend → Node.js · Express.js · REST APIs
 - Databases → PostgreSQL · MySQL · Supabase
@@ -95,7 +91,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PranavAD36/PranavAD36/output/github-contribution-grid-snake-dark.svg" alt="Red Snake Animation" />
+  <img src="https://raw.githubusercontent.com/PranavAD36/PranavAD36/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 

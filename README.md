@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;API+Engineering;Workflow+Systems;Backend+Focused+Engineer" />
 </p>
 
-<!-- <p align="center">
-  Backend Developer · API Engineering · Workflow Systems . Ai Engineer
-</p> -->
-
 <p align="center">
   <a href="mailto:pranav.dabhi9969@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

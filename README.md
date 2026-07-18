@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://pranavdabhi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
   <img src="https://img.shields.io/badge/Morbi-Gujarat-blue?style=for-the-badge&logo=googlemaps"/>

@@ -1,6 +1,5 @@
 
-<h1 align="center">Pranav Dabhi</h1>    _________________
-
+<h1 align="center">Pranav Dabhi</h1>    ________________
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;API+Engineering;Workflow+Systems;Backend+Focused+Engineer" />

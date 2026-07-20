@@ -1,4 +1,4 @@
-<h1 align="center">Pranav Dabhi</h1>    ___
+<h1 align="center">Pranav Dabhi</h1>    
 
 
 <p align="center">
